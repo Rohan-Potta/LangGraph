@@ -1,0 +1,9 @@
+This is the conversational log for agent-2
+You: hi, my name is rohan
+AI: Hello Rohan! How can I assist you today?
+You: do you know my name?
+AI: Yes, you just mentioned that your name is Rohan. How can I assist you today?
+You: do you know my name?
+AI: Yes, based on what you mentioned earlier, your name is Rohan. Is there anything else you'd like to discuss or ask about?
+You: who am i?
+AI: You're Rohan, based on the information you've provided. How can I assist you further today?
