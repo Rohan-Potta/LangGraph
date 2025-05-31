@@ -65,7 +65,8 @@ text_splitter = RecursiveCharacterTextSplitter(
 pages_split = text_splitter.split_documents(pages) # We now apply this to our pages
 
 
-persist_directory = r"D:\LangGraph\ChromaDB"
+# persist_directory = r"D:\LangGraph\ChromaDB"
+persist_directory = os.path.join(os.getcwd(), "ChromaDB") #this code will create the directory where the code is being executed
 collection_name = "stock_market"
 
 # If our collection does not exist in the directory, we create using the os command
